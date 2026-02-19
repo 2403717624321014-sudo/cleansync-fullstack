@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 # Run the development server
 uvicorn app.main:app --reload
-
+```
 Open the following links in your browser:
 
-. Local server:
+- Local server:
