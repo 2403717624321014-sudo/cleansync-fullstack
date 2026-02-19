@@ -35,3 +35,25 @@ pip install -r requirements.txt
 
 # Start the FastAPI server
 uvicorn app.main:app --reload
+Once running, you can access the API at:
+
+Local Server: http://127.0.0.1:8000
+
+Interactive Docs (Swagger): http://127.0.0.1:8000/docs
+
+Alternative Docs (ReDoc): http://127.0.0.1:8000/redoc
+
+2️⃣ Frontend Setup
+Navigate to the /frontend directory in your terminal:
+
+Bash
+# Install dependencies
+npm install
+# or
+yarn install
+
+# Start the development server
+npm run dev
+# or
+yarn dev
+Open http://localhost:3000 in your browser to see the app in action.
