@@ -19,7 +19,7 @@ CleanSync is a modern, full-stack application designed to streamline customer ma
 * **Backend:** FastAPI (Python), SQLAlchemy, Pydantic
 * **Frontend:** React/Next.js, Tailwind CSS
 * **API Documentation:** Swagger UI & ReDoc
-
+ 
 ---
 
 ## 🖥️ Run Locally
