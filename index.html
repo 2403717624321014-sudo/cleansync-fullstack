@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🧹 CleanSync – MVP</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    a.button {
+      display: inline-block;
+      margin: 1rem 0;
+      padding: 0.75rem 1.5rem;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    a.button:hover {
+      background-color: #45a049;
+    }
+    h2 {
+      margin-top: 2rem;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
+    code {
+      background: #eee;
+      padding: 2px 5px;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🧹 CleanSync – MVP</h1>
+    <p>Select a demo or view features below</p>
+  </header>
+  <main>
+    <a href="app.html" class="button">Main CleanSync App</a>
+
+    <h2>About</h2>
+    <p>This is a <strong>frontend MVP</strong> deployed using GitHub Pages. Full backend functionality requires running the backend server locally or on a live deployment.</p>
+
+    <h2>Features Preview</h2>
+    <ul>
+      <li>📅 <strong>Booking System:</strong> View and book cleaning appointments (frontend demo only).</li>
+      <li>🧹 <strong>Service Management:</strong> Add, edit, or view cleaning services.</li>
+      <li>👤 <strong>Customer Dashboard:</strong> See upcoming appointments and service status.</li>
+      <li>📝 <strong>Forms & Validation:</strong> Test frontend input validation and form flow.</li>
+    </ul>
+
+    <h2>How to Run Full App Locally</h2>
+    <ol>
+      <li>Clone the repo: <code>git clone https://github.com/<your-username>/cleansync-fullstack.git</code></li>
+      <li>Start backend: navigate to <code>backend/</code> and run <code>uvicorn main:app --reload</code> (or your framework’s command)</li>
+      <li>Start frontend: navigate to <code>frontend/</code> and run <code>npm install && npm run dev</code></li>
+    </ol>
+  </main>
+</body>
+</html>
