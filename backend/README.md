@@ -39,4 +39,3 @@ The recommended ways to deploy a FastAPI backend:
 - [Production Deployment with Uvicorn & Gunicorn](https://fastapi.tiangolo.com/deployment/#using-gunicorn-with-uvicorn-workers) – Best practices for scalable deployment.
 - [Deploy on Serverless / Cloud Platforms](https://vercel.com/docs/functions) – Serverless deployment options.
   
-
