@@ -25,18 +25,18 @@ This project uses FastAPI, Pydantic, and Uvicorn for clean, maintainable, and fa
 ## Learn More
 Relevant resources for this project:
 
-- [FastAPI Documentation](FastAPI Documentation) – Core API framework docs
-- [Pydantic Documentation](Pydantic Documentation) – Data validation & models
-- [Uvicorn Documentation](Uvicorn Documentation) – ASGI server docs
-- [FastAPI GitHub Repository](FastAPI GitHub Repository) – Open-source repo
-- [FastAPI Tutorial](FastAPI Tutorial) – Step-by-step beginner guide
-- [FastAPI Deployment](FastAPI Deployment) – Deployment best practices
-- [FastAPI Docker Deployment](FastAPI Docker Deployment) – Docker guide
+- [FastAPI Documentation](https://fastapi.tiangolo.com/) – Core API framework docs
+- [Pydantic Documentation](https://docs.pydantic.dev/latest/) – Data validation & models
+- [Uvicorn Documentation](https://uvicorn.dev/) – ASGI server docs
+- [FastAPI GitHub Repository](https://github.com/fastapi/fastapi) – Open-source repo
+- [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/) – Step-by-step beginner guide
+- [FastAPI Deployment](https://fastapi.tiangolo.com/deployment/) – Deployment best practices
+- [FastAPI Docker Deployment](https://fastapi.tiangolo.com/deployment/docker/) – Docker guide
 
   ## Deploy on Production
   The recommended ways to deploy a FastAPI backend:
-- [Dockerize FastAPI](Dockerize FastAPI) – Guide to containerize your FastAPI app for production.
-- [Production Deployment with Uvicorn & Gunicorn](Production Deployment with Uvicorn & Gunicorn) – Best practices for scalable deployment.
-- [Deploy on Serverless / Cloud Platforms](Deploy on Serverless / Cloud Platforms) – Serverless deployment options.
+- [Dockerize FastAPI](https://fastapi.tiangolo.com/deployment/docker/) – Guide to containerize your FastAPI app for production.
+- [Production Deployment with Uvicorn & Gunicorn](https://fastapi.tiangolo.com/deployment/#using-gunicorn-with-uvicorn-workers) – Best practices for scalable deployment.
+- [Deploy on Serverless / Cloud Platforms](https://vercel.com/docs/functions) – Serverless deployment options.
   
 
