@@ -43,7 +43,7 @@ Interactive Docs (Swagger): http://127.0.0.1:8000/docs
 
 Alternative Docs (ReDoc): http://127.0.0.1:8000/redoc
 
-2️⃣ Frontend Setup
+2️⃣ **Frontend Setup**
 Navigate to the /frontend directory in your terminal:
 
 Bash
