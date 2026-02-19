@@ -1,23 +1,14 @@
-# CleanSync Backend – FastAPI
+# CleanSync Backend
 
-This is the backend service for **CleanSync – Cleaning Service Management Platform**.  
-It is built using **FastAPI** and **SQLite** and provides REST APIs for managing customers, service providers, and bookings.
-
----
-
-## Tech Stack
-
-- Python
-- FastAPI
-- SQLite
-- Pydantic
-- Uvicorn
-
----
+This is a [FastAPI](https://fastapi.tiangolo.com/) backend for the CleanSync project, handling API requests and serving data to the frontend.
 
 ## Getting Started
 
-### Install Dependencies
+First, install dependencies and run the development server:
 
 ```bash
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the development server
+uvicorn app.main:app --reload
