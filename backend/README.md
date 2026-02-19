@@ -33,8 +33,8 @@ Relevant resources for this project:
 - [FastAPI Deployment](https://fastapi.tiangolo.com/deployment/) – Deployment best practices
 - [FastAPI Docker Deployment](https://fastapi.tiangolo.com/deployment/docker/) – Docker guide
 
-  ## Deploy on Production
-  The recommended ways to deploy a FastAPI backend:
+## Deploy on Production
+The recommended ways to deploy a FastAPI backend:
 - [Dockerize FastAPI](https://fastapi.tiangolo.com/deployment/docker/) – Guide to containerize your FastAPI app for production.
 - [Production Deployment with Uvicorn & Gunicorn](https://fastapi.tiangolo.com/deployment/#using-gunicorn-with-uvicorn-workers) – Best practices for scalable deployment.
 - [Deploy on Serverless / Cloud Platforms](https://vercel.com/docs/functions) – Serverless deployment options.
