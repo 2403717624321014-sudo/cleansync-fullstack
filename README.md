@@ -4,7 +4,7 @@ CleanSync is a modern, full-stack application designed to streamline customer ma
 
 🔗 **Live MVP Demo**
 
- https://gowthamk-dev.github.io/cleansync-fullstack/
+ https://gowthamvanjimuthu-cyber.github.io/cleansync-fullstack/
  
 ---
 
