@@ -2,7 +2,7 @@
 
 CleanSync is a modern, full-stack application designed to streamline customer management and booking workflows through an intuitive dashboard.
 
-🔗 **Live MVP Demo**
+🔗 **Details**
 
  https://gowthamvanjimuthu-cyber.github.io/cleansync-fullstack/
  
